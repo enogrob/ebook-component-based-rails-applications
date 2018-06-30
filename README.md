@@ -29,7 +29,7 @@ Chapter 1: Introduction to Component-Based Rails Applications 1
 [x] 1.5 Related Works 15
 
 Chapter 2: Creating a Component-Based Application 17
-[ ] 2.1 The Entire App Inside a Component 18
+[x] 2.1 The Entire App Inside a Component 18
 [ ] 2.2 ActiveRecord and Handling Migrations within Components 27
 [ ] 2.3 Handling Dependencies within Components 34
 
