@@ -22,11 +22,11 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] About the Author xxiii
 
 Chapter 1: Introduction to Component-Based Rails Applications 1
-[ ] 1.1 Component-Based Rails 2
-[ ] 1.2 Benefits of Component-Based Applications 4
-[ ] 1.3 Component-Based Ruby 13
-[ ] 1.4 The Application Continuum 14
-[ ] 1.5 Related Works 15
+[x] 1.1 Component-Based Rails 2
+[x] 1.2 Benefits of Component-Based Applications 4
+[x] 1.3 Component-Based Ruby 13
+[x] 1.4 The Application Continuum 14
+[x] 1.5 Related Works 15
 
 Chapter 2: Creating a Component-Based Application 17
 [ ] 2.1 The Entire App Inside a Component 18
