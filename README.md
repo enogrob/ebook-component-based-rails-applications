@@ -34,7 +34,7 @@ Chapter 2: Creating a Component-Based Application 17
 [x] 2.3 Handling Dependencies within Components 34
 
 Chapter 3: Tooling for Components 49
-[ ] 3.1 Testing a Component 50
+[x] 3.1 Testing a Component 50
 [ ] 3.2 Testing the Main Application 65
 [ ] 3.3 Asset Loading for Components 74
 [ ] 3.4 Switching Databases 82
